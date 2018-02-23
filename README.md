@@ -1,1 +1,1 @@
-"# django_custom_suer_model" 
+# django-custom-usermodel-demo
